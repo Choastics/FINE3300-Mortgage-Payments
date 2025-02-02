@@ -7,10 +7,10 @@ This Python program calculates mortgage payments using different periodic paymen
 - Accepts user input for principal, interest rate, and amortization period
 - Outputs formatted results rounded to two decimal places
 
-# Sample Output:      For Principal = $500,000, Rate = 5.5%, Amortization = 25 years, the program outputs:
-**Monthly Payment**: $3,051.20
-**Semi-monthly Payment**: $1,525.60
-**Bi-weekly Payment**: $1,406.15
-**Weekly Payment**: $703.07
-**Rapid Bi-weekly Payment**: $1,525.60
-**Rapid Weekly Payment**: $762.80
+# Sample Output: For Principal = $500,000, Rate = 5.5%, Amortization = 25 years, the program outputs:
+-**Monthly Payment**: $3,051.20
+-**Semi-monthly Payment**: $1,525.60
+-**Bi-weekly Payment**: $1,406.15
+-**Weekly Payment**: $703.07
+-**Rapid Bi-weekly Payment**: $1,525.60
+-**Rapid Weekly Payment**: $762.80
